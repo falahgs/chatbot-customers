@@ -5,3 +5,4 @@ streamlit-extras
 langchain
 python-dotenv==1.0.0
 huggingface_hub
+seaborn
